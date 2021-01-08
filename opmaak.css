@@ -1,0 +1,15 @@
+p.vraag {
+  color: blue;
+}
+
+p.antwoord {
+  color: white;
+}
+
+p.antwoord {
+  background-color: white;
+}
+
+p.antwoord:hover{
+  color: cyan;
+}
